@@ -80,10 +80,10 @@ Just one last thing. Basic and advanced modules are mandatory(no skipping) to ge
 |  1.  | [Programming With C][1]                 |                |
 |  2.  | [Embedded System Basics][2]             |                |
 |  3.  | [Compilers][3]                          |                |
-|  4.  | [MicroControllers][4]: Basics           |                |
-|  5.  | [MicroControllers][26]: Programming-1   |                |
-|  6.  | [MicroControllers][27]: Programming-2   |                |
-|  7.  | [Debugging Tools][5]                    |                |
+|  4.  | [MicroControllers][4]: Basics           |       X        |
+|  5.  | [MicroControllers][26]: Programming-1   |       X        |
+|  6.  | [MicroControllers][27]: Programming-2   |       X        |
+|  7.  | [Debugging Tools][5]                    |       X        |
 
 
 
@@ -91,11 +91,11 @@ Just one last thing. Basic and advanced modules are mandatory(no skipping) to ge
 
 | S.No |  Course Name                       | Notes         |
 | ---- |:----------------------------------:|:-------------:|
-|  1.  | [Operating Systems][6]             |               |
-|  2.  | [C++][7]                           |               |
-|  3.  | [MicroProcessors in depth][8]      |               |
-|  4.  | [RTOS][9]                          |               |
-|  5.  | [Python][10]                       |               |
+|  1.  | [Operating Systems][6]             |       X       |
+|  2.  | [C++][7]                           |       X       |
+|  3.  | [MicroProcessors in depth][8]      |       X       |
+|  4.  | [RTOS][9]                          |       X       |
+|  5.  | [Python][10]                       |       X       |
 
 
 
@@ -103,10 +103,10 @@ Just one last thing. Basic and advanced modules are mandatory(no skipping) to ge
 
 | S.No |   Course Name                     |  Notes         |
 | ---- |:---------------------------------:|:--------------:|
-|  1.  | [IoT and Protocols][11]           |                |
-|  2.  | [Matlab][12]                      |                |
-|  3.  | [Git][13]                         |                |
-|  4.  | [Node.Js][14]                     |                |
+|  1.  | [IoT and Protocols][11]           |       X        |
+|  2.  | [Matlab][12]                      |       X        |
+|  3.  | [Git][13]                         |       X        |
+|  4.  | [Node.Js][14]                     |       X        |
 
 
 
@@ -138,6 +138,7 @@ If you would like to suggest some improvement (or) have some feedback to the cla
 - Adding relevant courses
 - Increasing efficiency of courses: Due to uncustomized courses, some information is repeated while some is missed. Increased homework for students
 - Adding details to remaining sections of readme
+- Removal of youtube links from curriculum
 
 
 
@@ -146,7 +147,7 @@ If you would like to suggest some improvement (or) have some feedback to the cla
 - [Udacity][22]
 - [Coursera][23]
 - [Stanford University][24]
-- [MIT's Open Courseware][25]
+- [Youtube][25]
 
 
 
@@ -176,7 +177,7 @@ If you would like to suggest some improvement (or) have some feedback to the cla
 [22]: https://www.udacity.com
 [23]: https://www.cousera.org
 [24]: https://lagunita.stanford.edu
-[25]: https://ocw.mit.edu/courses/
+[25]: https://www.youtube.com
 
 [26]: #Basic
 [27]: #Basic
