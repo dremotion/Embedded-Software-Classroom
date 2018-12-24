@@ -10,7 +10,7 @@ Free self-taught knowledge to get a job in Embedded Systems
  - [Curriculum](#Curriculum)
  - [Let's Begin The Class](Let's-Begin-The-Class)
  - [Forums](#Forums)
- - [Where To Go From Here](#Where-To-Go-From-Here)
+ - [Going Forward](#Going-Forward)
  - [Meet Classmates](#Meet-Classmates)
  - [Contribute](#Contribute)
  - [Feedback](#Feedback)
@@ -116,7 +116,7 @@ Just one last thing. Basic and advanced modules are mandatory(no skipping) to ge
 
 
 
-## Where To Go From Here
+## Going Forward
 [Under Progress]
 
 
