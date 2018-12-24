@@ -10,8 +10,9 @@ Free self-taught knowledge to get a job in Embedded Systems
  - [Curriculum](#Curriculum)
  - [Let's Begin The Class](Let's-Begin-The-Class)
  - [Forums](#Forums)
+ - [Where To Go From Here](#Where-To-Go-From-Here)
  - [Meet Classmates](#Meet-Classmates)
- - [Help](#Contribute)
+ - [Contribute](#Contribute)
  - [Feedback](#Feedback)
  - [References](#References)
  - [Inspiration](#Inspiration)
@@ -48,7 +49,7 @@ I'll recommend taking the courses in the order as listed. There would still be a
 
 
 ## Curriculum
-The curriculum is extracted by referencing two popular Embedded Training institutes in India: CDAC and Vector India Pvt Ltd
+The curriculum is extracted by referencing two popular Embedded Training institutes in India: CDAC and Vector India Pvt Ltd and is divided into three modules: Basic, Advanced, Additional.\
   - [Basic](#Basic)
     - Programming With C
     - Embedded System Basics
@@ -68,9 +69,8 @@ The curriculum is extracted by referencing two popular Embedded Training institu
 
 
 ## Let's Begin The Class
-Just one last thing, before starting jumping to the courses. There are 3 modules: Basic, Advanced, Additional.\
-Basic and advanced modules are mandatory(no escaping) to get that job in embedded software. You might get one with Basic courses but you'll have to be somewhat lucky for that. If you'd like to study more, you can explore additional modules.
-Always remember that the motive isn't just to get the job but to be so skillful that you get the job. No cheating.
+Just one last thing. Basic and advanced modules are mandatory(no skipping) to get that job in embedded software. You might get one with just the Basic courses but you'll have to be somewhat lucky for that. Always remember that the motive isn't just to get the job but to be so skillful that you get the job. No cheating. If you'd like to study more, you can explore additional modules.
+
 
 
 ## Basic
@@ -116,13 +116,17 @@ Always remember that the motive isn't just to get the job but to be so skillful 
 
 
 
+## Where To Go From Here
 
-## Contribute
-If you'd like to contribute to this project and make it better, I am open to it. Please reach out to me via this form [Currently not ready, please use connect with me over my LinkedIn account meanwhile].
 
 
 ## Meet Classmates
 [Under Progress]
+
+
+
+## Contribute
+If you'd like to contribute to this project and make it better, I am open to it. Please reach out to me via this form [Currently not ready, please connect with me over my LinkedIn account meanwhile].
 
 
 ## Feedback
@@ -142,10 +146,6 @@ If you found a mistake (or) have a complaint (or) would like to suggest some imp
 - [Coursera][23]
 - [Stanford University][24]
 - [MIT's Open Courseware][25]
-
-
-
-
 
 
 
