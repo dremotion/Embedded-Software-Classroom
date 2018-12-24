@@ -11,7 +11,7 @@ Free self-taught knowledge to get a job in Embedded Systems
  - [Let's Begin The Class](Let's-Begin-The-Class)
  - [Forums](#Forums)
  - [Meet Classmates](#Meet-Classmates)
- - [Help](#Help)
+ - [Help](#Contribute)
  - [Feedback](#Feedback)
  - [References](#References)
  - [Inspiration](#Inspiration)
@@ -111,12 +111,14 @@ Always remember that the motive isn't just to get the job but to be so skillful 
 
 
 ## Forums
+- [Stackoverflow][]: for programming related queries
+- [StackIoT][]: for hardware/device related queries
 
 
 
 
-## Help
-
+## Contribute
+If you'd like to contribute to this project and make it better, I am open to it. Please reach out to me via this form [Currently not ready, please use connect with me over my LinkedIn account meanwhile].
 
 
 ## Meet Classmates
@@ -165,6 +167,8 @@ If you found a mistake (or) have a complaint (or) would like to suggest some imp
 [13]: #Additional
 [14]: #Additional
 
+[16]: https://stackoverflow.com
+[17]: https://iot.stackexchange.com
 [20]: https://goo.gl/forms/oCa6PITXG1ZD6Kqr1
 
 [21]: https://www.edx.org
