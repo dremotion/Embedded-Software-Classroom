@@ -80,9 +80,9 @@ Always remember that the motive isn't just to get the job but to be so skillful 
 |  1.  | [Programming With C][1]                 |                |
 |  2.  | [Embedded System Basics][2]             |                |
 |  3.  | [Compilers][3]                          |                |
-|  4.  | [MicroControllers][4]  : Basics         |                |
-|  5.  | [MicroControllers][26] : Programming-1  |                |
-|  6.  | [MicroControllers][27] : Programming-2  |                |
+|  4.  | [MicroControllers][4]: Basics           |                |
+|  5.  | [MicroControllers][26]: Programming-1   |                |
+|  6.  | [MicroControllers][27]: Programming-2   |                |
 |  7.  | [Debugging Tools][5]                    |                |
 
 
@@ -111,8 +111,8 @@ Always remember that the motive isn't just to get the job but to be so skillful 
 
 
 ## Forums
-- [Stackoverflow][]: for programming related queries
-- [StackIoT][]: for hardware/device related queries
+- [Stackoverflow][16]: for programming related queries
+- [StackIoT][17]: for hardware/device related queries
 
 
 
