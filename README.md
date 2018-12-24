@@ -49,7 +49,7 @@ I'll recommend taking the courses in the order as listed. There would still be a
 
 
 ## Curriculum
-The curriculum is extracted by referencing two popular Embedded Training institutes in India: CDAC and Vector India Pvt Ltd and is divided into three modules: Basic, Advanced, Additional.\
+The curriculum is extracted by referencing two popular Embedded Training institutes in India: CDAC and Vector India Pvt Ltd and is divided into three modules: Basic, Advanced, Additional.
   - [Basic](#Basic)
     - Programming With C
     - Embedded System Basics
@@ -117,7 +117,7 @@ Just one last thing. Basic and advanced modules are mandatory(no skipping) to ge
 
 
 ## Where To Go From Here
-
+[Under Progress]
 
 
 ## Meet Classmates
@@ -126,7 +126,7 @@ Just one last thing. Basic and advanced modules are mandatory(no skipping) to ge
 
 
 ## Contribute
-If you'd like to contribute to this project and make it better, I am open to it. Please reach out to me via this form [Currently not ready, please connect with me over my LinkedIn account meanwhile].
+If you'd like to contribute to this project and make it better. Please reach out to me via this form [Currently not ready, please connect with me over my LinkedIn account meanwhile].
 
 
 ## Feedback
@@ -135,8 +135,9 @@ If you would like to suggest some improvement (or) have some feedback to the cla
 
 
 ## To Do
-- Complete readme
 - Adding relevant courses
+- Increasing efficiency of courses: Due to uncustomized courses, some information is repeated while some is missed. Increased homework for students
+- Adding details to remaining sections of readme
 
 
 
