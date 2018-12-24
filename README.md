@@ -31,7 +31,7 @@ This Classroom, is a free self-taught place to learn embedded systems.
 
 ## About Me
 My name is Priyank Agarwal, and I'm an Embedded Software Engineer. But I wasn't the same always. I started my career as a Customer Support Associate at Amazon. It is only when I had a need for a job in Embedded Systems, I searched for guidance.  Once I gained the skills, I got my first job at a very cool startup. [My LinkedIn Profile][28]\
-If I could do it, with right guidance and support, I believe anyone can.\
+If I could do it, with right guidance and support I believe anyone can.\
 The classroom can help you with the right path but for motivation you'll have to do some introspection. 
 
 
@@ -121,8 +121,7 @@ Just one last thing. Basic and advanced modules are mandatory(no skipping) to ge
 
 
 ## Meet Classmates
-[Under Progress]
-
+Learning is best, when it is social. If you'd like to interact with classmates you can do so via [this Facebook group][29]
 
 
 ## Contribute
@@ -133,13 +132,11 @@ If you'd like to contribute to this project and make it better. Please reach out
 If you would like to suggest some improvement (or) have some feedback to the class, please do so via [this form][20]
 
 
-
 ## To Do
 - Adding relevant courses
 - Increasing efficiency of courses: Due to uncustomized courses, some information is repeated while some is missed. Increased homework for students
 - Adding details to remaining sections of readme
 - Removal of youtube links from curriculum
-
 
 
 ## References
@@ -182,3 +179,4 @@ If you would like to suggest some improvement (or) have some feedback to the cla
 [26]: #Basic
 [27]: #Basic
 [28]: https://www.linkedin.com/in/priyank01
+[29]: https://www.facebook.com/groups/282708705761473
