@@ -69,7 +69,7 @@ The curriculum is extracted by referencing two popular Embedded Training institu
 
 
 ## Let's Begin The Class
-Just one last thing. Basic and advanced modules are mandatory(no skipping) to get that job in embedded software. You might get one with just the Basic courses but you'll have to be somewhat lucky for that. Always remember that the motive isn't just to get the job but to be so skillful that you get the job. No cheating. If you'd like to study more, you can explore additional modules.
+Just one last thing. Basic and advanced modules are mandatory(no skipping) to get that job in embedded software. You might get one with just the Basic courses but you'll have to be somewhat lucky for that. Always remember that **the motive isn't just to get the job but to be so skillful that you get the job**. No cheating. If you'd like to study more, you can explore additional modules.
 
 
 
