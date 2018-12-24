@@ -130,7 +130,7 @@ If you'd like to contribute to this project and make it better, I am open to it.
 
 
 ## Feedback
-If you found a mistake (or) have a complaint (or) would like to suggest some improvement to the class, please do so via [this form][20]
+If you would like to suggest some improvement (or) have some feedback to the class, please do so via [this form][20]
 
 
 
