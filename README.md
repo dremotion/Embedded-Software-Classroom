@@ -75,15 +75,15 @@ Always remember that the motive isn't just to get the job but to be so skillful 
 
 ## Basic
 
-| S.No | Course Name                           |     Notes      |
-| ---- |:-------------------------------------:|:--------------:|
-|  1.  | [Programming With C][1]               |                |
-|  2.  | [Embedded System Basics][2]           |                |
-|  3.  | [Compilers][3]                        |                |
-|  4.  | [MicroControllers][4]  -1             |                |
-|  5.  | [MicroControllers][26] -2             |                |
-|  6.  | [MicroControllers][27] -3             |                |
-|  7.  | [Debugging Tools][5]                  |                |
+| S.No | Course Name                             |     Notes      |
+| ---- |:---------------------------------------:|:--------------:|
+|  1.  | [Programming With C][1]                 |                |
+|  2.  | [Embedded System Basics][2]             |                |
+|  3.  | [Compilers][3]                          |                |
+|  4.  | [MicroControllers][4]  : Basics         |                |
+|  5.  | [MicroControllers][26] : Programming-1  |                |
+|  6.  | [MicroControllers][27] : Programming-2  |                |
+|  7.  | [Debugging Tools][5]                    |                |
 
 
 
@@ -173,3 +173,5 @@ If you found a mistake (or) have a complaint (or) would like to suggest some imp
 [24]: https://lagunita.stanford.edu
 [25]: https://ocw.mit.edu/courses/
 
+[26]: #Basic
+[27]: #Basic
