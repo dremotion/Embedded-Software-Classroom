@@ -36,7 +36,7 @@ The classroom can help you with the right path but for motivation you'll have to
 
 
 ## About Course
-To quickly categorize, Embedded Systems have multiple roles like: Hardware Designer, Firmware Engineers, QA Engineers...blah.blah.blah....\
+To quickly categorize, there are two categories of embedded developers: one's who design & develop the hardware and the one's who develop the firmware sometimes also called as embedded software\
 Each role has different experts and requires different set of skillsets.\
 This class trains you in embedded software/firmware. If you're interested in making a career in embedded software or you're a beginner and just want to play around, this classroom is great place to start.
 
